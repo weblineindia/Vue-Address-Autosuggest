@@ -1,0 +1,24 @@
+{
+  "name": "vue-weblineindia-address",
+  "version": "1.0.0",
+  "description": "A Vue.js address autosuggest component for the Google Maps Places API.",
+  "main": "./lib/Address.vue",
+  "author": "weblineindia",
+  "license": "MLT",
+  "repository": "https://github.com/weblineindia/Vue-Address-Autosuggest",
+  "homepage": "https://www.weblineindia.com/software-development-resources.html",
+  "keywords": [
+    "vue-weblineindia-address",
+    "autocomplete",
+    "gooele",
+    "vue components",
+    "vuejs",
+    "vuejs component"
+  ],
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.1",
+    "@fortawesome/fontawesome-svg-core": "^1.2.29",
+    "@fortawesome/free-solid-svg-icons": "^5.13.1",
+    "@fortawesome/vue-fontawesome": "^0.1.10"
+  }
+}
